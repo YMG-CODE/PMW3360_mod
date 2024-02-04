@@ -5,7 +5,7 @@
 ### ・PCB_PMW3360_Sensor Board.json
 
 PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc.
-![](https://user-images.githubusercontent.com/58157342/185282034-b1b37cc1-6474-4baf-a6f9-b1038cea2af9.jpg)
+![]([https://user-images.githubusercontent.com/58157342/185282034-b1b37cc1-6474-4baf-a6f9-b1038cea2af9.jpg](https://github.com/YMG-CODE/PMW3360_mod/blob/ETE/img/IMG_7028.jpg)
 
 ## **BOM**
 |Name                       |Value  |Footprint  |Qty    |
@@ -26,4 +26,4 @@ PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc.
 
 # Build Guide
 
-[ビルドガイド（日本語）](documents/buildguide.md)
+[ビルドガイド（外部サイトリンク_note）]([documents/buildguide.md](https://note.com/underthrow_/n/n65385d90a76e)https://note.com/underthrow_/n/n65385d90a76e)

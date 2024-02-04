@@ -17,7 +17,7 @@ PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc. Wit
 |R5                         |63.4k  |C170947          |1      |
 |R6,R7                      |10k    |C103914          |2      |
 |R8                         |30.1k  |C21841           |1      |
-|U1,U3                      |       |59200            |2      |
+|U1,U3                      |       |C59200           |2      |
 |J2-1,J2-2                  |       |C3029345         |2      |
 |PMW3360 + lens             |       |                 |1      |
 

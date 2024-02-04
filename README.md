@@ -1,6 +1,6 @@
 # **PMW3360**
 
-PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc.
+PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc. With 6PIN SHconnector.
 ![](https://github.com/YMG-CODE/PMW3360_mod/blob/ETE/img/IMG_7028.jpg)
 
 ## **BOM**
@@ -18,6 +18,7 @@ PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc.
 |R6,R7                      |10k    |0805       |2      |
 |R8                         |30.1k  |0805       |1      |
 |U1,U3                      |       |SOT23      |2      |
+|J2-1,J2-2                  |       |C3029476   |2      |
 |PMW3360 + lens             |       |           |1      |
 
 # Build Guide

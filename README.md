@@ -23,5 +23,4 @@ PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc.
 |PMW3360 + lens             |       |           |1      |
 
 # Build Guide
-
-([(ビルドガイド（外部サイトリンク）](https://note.com/underthrow_/n/n65385d90a76e)
+[(ビルドガイド（外部サイトリンク）](https://note.com/underthrow_/n/n65385d90a76e)

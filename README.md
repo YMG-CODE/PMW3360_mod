@@ -1,6 +1,4 @@
 # **PMW3360**
-### ・SCH_PMW3360_Sensor Board.json
-### ・PCB_PMW3360_Sensor Board.json
 
 PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc.
 ![](https://github.com/YMG-CODE/PMW3360_mod/blob/ETE/img/IMG_7028.jpg)
